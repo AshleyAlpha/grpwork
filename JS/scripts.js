@@ -9,13 +9,26 @@ var config = {
 firebase.initializeApp(config);
 var db = firebase.database();
 
-function Contact(first, last) {
+function Contact(first, last, email, phoneNumber, id) {
   this.firstName = first;
   this.lastName = last;
+  this.email = email;
+  this.phoneNumber = phoneNumber;
+  this.id = id;
 }
 
 Contact.prototype.fullName = function() {
-  return this.firstName + " " + this.lastName;
+  return (
+    this.firstName +
+    " " +
+    this.lastName +
+    " " +
+    this.email +
+    " " +
+    this.phoneNumber +
+    " " +
+    this.id
+  );
 };
 
 $(document).ready(function() {
@@ -118,6 +131,12 @@ $(document).ready(function() {
         user.firstName +
         " " +
         user.lastName +
+        " " +
+        user.email +
+        " " +
+        user.phoneNumber +
+        " " +
+        user.id +
         "</span></li>"
     );
   };
