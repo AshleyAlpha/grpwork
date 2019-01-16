@@ -1,5 +1,29 @@
 body {
-    background-color: whitesmoke;
-    background-image: url("https://images.pexels.com/photos/1034008/pexels-photo-1034008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-color: aquamarine;
 
+}
+
+.col-md-6 {
+
+    border: 25px solid green;
+    border-style: dotted solid;
+}
+
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: crimson;
+}
+
+ol li {
+    display: inline-block;
+    flex-direction: row;
+    border: 30px rgb(225, 245, 225);
+}
+
+a {
+    color: white;
+}
+
+button {
+    background-color: blueviolet;
 }
