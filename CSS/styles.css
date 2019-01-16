@@ -1,5 +1,5 @@
 body {
-    background-color: aquamarine;
+    background-color: white;
 
 }
 
@@ -14,10 +14,42 @@ h2 {
     color: crimson;
 }
 
+nav {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 10px 0;
+    margin-right: 0%;
+}
+
+nav>ul {
+    text-align: left;
+}
+
+nav>ul>li {
+    display: inline-block;
+}
+
+nav>ul>li>a {
+    padding: 18px;
+    margin-right: 0;
+    text-transform: uppercase;
+    text-decoration: none;
+    display: block;
+    color: black;
+
+}
+
+nav>ul>li>a:hover {
+    box-shadow: black;
+    background: grey;
+    color: black;
+    text-decoration: none;
+}
+
 ol li {
     display: inline-block;
     flex-direction: row;
-    border: 30px rgb(225, 245, 225);
+    border: 50px rgb(225, 245, 225);
 }
 
 a {
@@ -26,4 +58,12 @@ a {
 
 button {
     background-color: blueviolet;
+}
+
+h1 {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 10px 0;
+    margin-right: 0%;
+    display: inline-block;
 }
