@@ -9,9 +9,9 @@ and they they will go and take it.
 # Setup instructions 
 After visiting our website and the users become interesting with our books  and wants to read it  they can book it online and  are required to fill form atfer that they will get email notification or cofirmation emails that  is  informing whether taht book is already booked or is still available
  #Authors:
-  Claudine Akimanizanye akimanizanye.claudine@gmail.com 
+  Claudine Akimanizanye 
  cecile  Nyirahabineza 
- Assumpta uWANYIRIJURU
+ Assumpta Uwanyirijuru
  Adolatha Uwineza
  Alpha Mbabazi
 
