@@ -6,7 +6,7 @@
 
 
 body {
-    background-image: url("https://images.pexels.com/photos/590493/pexels-photo-590493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-image: url("https://images.pexels.com/photos/1319854/pexels-photo-1319854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
@@ -77,4 +77,9 @@ a {
 
 button {
     background-color: brown;
+}
+
+.borrow {
+    background-color: white;
+
 }
