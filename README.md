@@ -23,10 +23,10 @@ After visiting our website and the users become interesting with our books  and 
  input ID
  user get  comfirmation email
 # Techology used
-HTML
-css
-Bootstrap
-Jquerry
+HTML,
+css,
+Bootstrap,
+Jquerry,
 Javascript
 # Contact information
 akimanizanye.claudine@gmail.com
