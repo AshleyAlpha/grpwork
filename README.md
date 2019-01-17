@@ -31,5 +31,8 @@ Javascript
 # Contact information
 akimanizanye.claudine@gmail.com
 habcecile@gmail.com
+mashleyalpha@gmail.com
+jurassu@gmail.com
+uwinezaandersonne@gmail.com
 # copyright
 Copyright@onlinelibrary 2019
