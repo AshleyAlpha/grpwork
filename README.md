@@ -16,13 +16,13 @@ After visiting our website and the users become interesting with our books  and 
  Alpha Mbabazi
 
 
-# Behavoir Driven Development 
+# Behavior Driven Development 
  user  are required to input  name
  input lastname
  input adress
  input ID
  user get  comfirmation email
-# Techology used
+# Technology used
 HTML,
 css,
 Bootstrap,
